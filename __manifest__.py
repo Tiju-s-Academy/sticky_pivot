@@ -32,8 +32,8 @@
     'depends': ['web'],
     'assets': {
         'web.assets_backend': [
-            '/sticky_pivot_view/static/src/css/main.css',
-            '/sticky_pivot_view/static/src/xml/pivot_template.xml',
+            '/sticky_pivot/static/src/css/main.css',
+            '/sticky_pivot/static/src/xml/pivot_template.xml',
         ],
     },
     'images': ['static/description/banner.jpg'],
